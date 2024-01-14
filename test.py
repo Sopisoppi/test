@@ -2,4 +2,5 @@ print("hello world")
 a=1
 b=1
 c=1
-d=1
+e=sopi
+d=="i am sopi"
